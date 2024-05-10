@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Stew Samuels</title>
+<!-- TemplateEndEditable -->
+<link href="../Main.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+<div class="container">
+  <div class="header"><a href=""><img src="../images/StewSamuels_Trans.png" alt="Stew Samuels" name="Insert_logo" width="351" height="236" id="Insert_logo" style="background: #8090AB; display:block;" /></a> 
+    <!-- end .header --></div>
+  <div class="content">
+    <h1>stewsamuels.com</h1>
+    <p class="content">&nbsp;</p>
+    <!-- end .content --></div>
+  <div class="footer">
+    <p>&copy; 2004-<script type="text/javascript">
+var theDate=new Date()
+document.write(theDate.getFullYear())
+</script> S.E. Samuels</p>
+  </div>
+  <!-- end .container --></div>
+</body>
+</html>
